@@ -7,16 +7,30 @@
 
 ## Introducción: El software como nuevo lenguaje cultural  
   
-En esta nueva entrega, adoptamos la perspectiva de Lev Manovich en *El software toma el mando* (2013) para exponer y ejemplificar que el software ya no es únicamente una herramienta orientada a llegar a un fin, como en sus inicios, ni es una mera evolución de un tiempo analógico pasado. Recientemente el software también redefine, mezcla y crea nuevos medios culturales. Sí,  hablamos de **hibridación**. Manovich lo define perfectamente en la página 179: "Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos."
+En esta nueva entrega, adoptamos la perspectiva de Lev Manovich en *El software toma el mando* (2013) para exponer y ejemplificar que el software ya no es únicamente una herramienta orientada  a un fin, como en sus inicios, ni es una mera evolución de un tiempo analógico pasado. En la actuallidad, el software también redefine, mezcla y genera nuevos medios culturales. Sí,  hablamos de **hibridación**. Manovich define esta evolución perfectamente en la página 179: "Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos."
   
-Pero hasta dónde podemos llegar con la hibridación? Hay un sinfín de ejemplos en que lo práctico prevalece a lo lúdico; programas útiles, divulgatorios y educativos que usamos en nuestro dia a dia. Pero la parte lúdica del ser humano aflora y toma su sitio y como es sabido, cada uno invierte su tiempo libre como quiere. Es por eso que analizaremos dos casos contemporáneos de hibridación: el videojuego de estrategia *Total Battle* y el videojuego musical *Guitar Hero*. Ambos ejemplos permiten observar cómo el software reconfigura experiencias culturales tradicionales  opuestas —la guerra y la música— en sistemas interactivos basados en datos, interfaces y algoritmos.
+En este punto, a mi entender surge una pregunta clave: hasta dónde podemos llegar con la hibridación? Más allá de los usos prácticos del software -programas productivos, divulgatorios y educativos que usamos en nuestro dia a dia- la parte lúdica que atreae al ser humano aflora y toma su sitio en la cultura digital contemporánea. Es por eso que en este ensayo analizamos dos formas en que el software traduce experiencias humanas a sistemas interactivos lúdicos: el juego de estrategia *Total Battle* y el juego musical *Guitar Hero*. Ambos ejemplos permiten analizar cómo el software reconfigura experiencias opuestas —la guerra y la música— en sistemas interactivos basados en datos, interfaces y algoritmos.
 
 ## Caso 1: Total Battle
   
-*Total Battle* es un juego interactivo multijugador de estrategia para móviles donde los jugadores construyen imperios, gestionan recursos y dirigen ejércitos. Combina planificación urbanística individual y táctica de grupo para poder progresar a través de eventos y competiciones bélicas. 
+*Total Battle* es un juego interactivo multijugador de estrategia para móviles donde los jugadores construyen imperios, gestionan recursos y dirigen ejércitos en un entorno competitivo. Para poder dar esta experiencia a sus jugadores combina planificación urbanística individual y táctica de grupo para poder progresar a través de eventos y enfretamientos bélicos. 
 
-Por una parte podemos afirmar que es una evolución significativa de los juegos de estrategia clásicos como *Age of Empires* o *Caesar III* dado que lo diferencia es que no es simplemente una simulación de ciudad en un entorno hostil sino que es una **hibridación entre estrategia, economía digital y sistemas de datos en tiempo real**.  
+Por una parte es una evolución significativa de los juegos de estrategia clásicos como *Age of Empires* o *Caesar III*. Por otra parte, sin embargo, cabe decir que la diferencia no recae simplemente en las complejidades añadidas o en la participación en tiempo real sino que es una **hibridación entre estrategia, economía digital y sistemas de datos en tiempo real**:
+
+- La estrategia clásica recae en la gestión territorial, la propia táctica para conseguir recursos, obtener mejores resultados y buenas alianzas.
   
+- La economía digital se ve traducida en recursos obtenidos a lo largo del juego que sirven para poder comprar bienes y progresar. Cuantas más tropas y más actualizados se tengan los edificios más se progresa exponencialmente. Finalmente, también se refleja la economía digital en las transacciones que permite el juego para poder avanzar más rápido.
+  
+- El sistema de datos en tiempo real se transmite podiendo interactuar a todas horas con otros jugadores y en los eventos determinados a horas concretas del día.
+
+```mermaid
+flowchart TD
+    A[Total Battle]
+    A --> B{Hibridación}
+    B --> C[Economia digital]
+    B --> D[Estrategia]
+    B --> E[Datos en tiempo real]
+```
 
 ## Bibliografia y webgrafia
 El software toma el mando
