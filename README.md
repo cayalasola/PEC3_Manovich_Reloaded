@@ -26,10 +26,13 @@ Por una parte es una evolución significativa de los juegos de estrategia clási
 ```mermaid
 flowchart TD
     A[Total Battle]
-    A --> B{Hibridación}
-    B --> C[Economia digital]
-    B --> D[Estrategia]
-    B --> E[Datos en tiempo real]
+    A --> B[Economia digital]
+    A --> C[Estrategia]
+    A --> D[Datos en tiempo real]
+    B --> E{Hibridación}
+    C --> E{Hibridación}
+    D --> E{Hibridación}
+  
 ```
 
 ## Bibliografia y webgrafia
