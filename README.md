@@ -32,8 +32,11 @@ flowchart TD
     B --> E{Hibridación}
     C --> E{Hibridación}
     D --> E{Hibridación}
-  
 ```
+En Total Battle encontramos diversos principios explicados por Lev Manovich, entre ellos:
+
+**Transcodificación**
+El juego nos convierte una guerra -tradicionalmente entendida en los juegos como una experiencia visual y narrativa basada en la acción directa- en un sistema de porcentajes, tiempos y números. El software en si mismo opera con estos datos y revela el resultado de las batallas, por ejemplo. El jugador participa eligiendo los soldados y el objetivo pero no ve un escenario de batalla, sino que espera los resultados de un cálculo algorítmico.
 
 ## Bibliografia y webgrafia
 El software toma el mando
