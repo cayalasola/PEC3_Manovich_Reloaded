@@ -31,5 +31,7 @@ flowchart TD
 ```
 Desde la perspectiva de Lev Manovich, Total Battle permite identificar varios de los principios fundamentales de los nuevos medios. Destaca la **transcodificación** mediante la cual, el juego nos convierte una guerra -tradicionalmente entendida en los juegos como una experiencia visual y narrativa basada en la acción directa- en un sistema de porcentajes, tiempos y números. El software en si mismo opera con estos datos y revela el resultado de las batallas, por ejemplo. El jugador participa eligiendo los soldados y el objetivo pero no ve un escenario de batalla, sino que espera los resultados de un cálculo algorítmico.
 
+Asimismo, el juego presenta una gran variabilidad, ya que la experiencia no es fija ni cerrada, al contrario; se modifica a través de eventos y de la interacción de otros jugadores, generando constantemente múltiples desenlaces posibles. Esta condición convierte al juego en un sistema dinámico en lugar de una experiencia lineal y predeterminada.
+
 ## Bibliografia y webgrafia
 El software toma el mando
