@@ -33,5 +33,7 @@ Desde la perspectiva de Lev Manovich, Total Battle permite identificar varios de
 
 Asimismo, el juego presenta una gran variabilidad, ya que la experiencia no es fija ni cerrada, al contrario; se modifica a través de eventos y de la interacción de otros jugadores, generando constantemente múltiples desenlaces posibles. Esta condición convierte al juego en un sistema dinámico en lugar de una experiencia lineal y predeterminada.
 
+Por otro lado, vemos la hibridación de Lev Manovich también en la **automatización** del software. El jugador dirige pero no ejecuta directamente la mayoría de las acciones. Dicho de otra manera; programa procesos —como la construcción de edificios o el entrenamiento de tropas— que el sistema lleva a cabo de manera autónoma. Esto ubica su rol en una figura más cercana a la de gestor de sistemas que a la de actor directo. Aunque en este caso, también encontramos este rol en otros juegos más clásicos. 
+
 ## Bibliografia y webgrafia
 El software toma el mando
