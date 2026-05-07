@@ -9,9 +9,9 @@
 
 ## Introducción: El software como nuevo lenguaje cultural  
   
-En esta nueva entrega, adoptamos la perspectiva de Lev Manovich en *El software toma el mando* (2013) para exponer y ejemplificar que el software ya no es únicamente una herramienta orientada  a un fin, como en sus inicios, ni es una mera evolución de un tiempo analógico pasado. En la actuallidad, el software también redefine, mezcla y genera nuevos medios culturales. Sí,  hablamos de **hibridación**. Manovich define esta evolución perfectamente en la página 179: "Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos."
+En esta nueva entrega, adoptamos la perspectiva de Lev Manovich en *El software toma el mando* (2013) para exponer y ejemplificar que el software ya no es únicamente una herramienta orientada  a un fin, como en sus inicios, ni es una mera evolución de un tiempo analógico pasado. En la actualidad, el software también redefine, mezcla y genera nuevos medios culturales. Sí,  hablamos de **hibridación**. Manovich define esta evolución perfectamente en la página 179: "Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos."
   
-En este punto, a mi entender surge una pregunta clave: hasta dónde podemos llegar con la hibridación? Más allá de los usos prácticos del software -programas productivos, divulgatorios y educativos que usamos en nuestro dia a dia- la parte lúdica que atrae al ser humano aflora y toma su sitio en la cultura digital contemporánea. Es por eso que en este ensayo analizamos dos formas en que el software traduce experiencias humanas a sistemas interactivos lúdicos: el juego de estrategia *Total Battle* y el juego musical *Guitar Hero*. Ambos ejemplos permiten analizar cómo el software reconfigura experiencias opuestas —la guerra y la música— en sistemas interactivos basados en datos, interfaces y algoritmos.
+En este punto, a mi entender surge una pregunta clave: ¿hasta dónde podemos llegar con la hibridación? Más allá de los usos prácticos del software -programas productivos, divulgatorios y educativos que usamos en nuestro día a día- la parte lúdica que atrae al ser humano aflora y toma su sitio en la cultura digital contemporánea. Es por eso que en este ensayo analizamos dos formas en que el software traduce experiencias humanas a sistemas interactivos lúdicos: el juego de estrategia *Total Battle* y el juego musical *Guitar Hero*. Ambos ejemplos permiten analizar cómo el software reconfigura experiencias opuestas —la guerra y la música— en sistemas interactivos basados en datos, interfaces y algoritmos.
 
 ## Caso 1: Total Battle
   
@@ -45,7 +45,18 @@ En este sentido, el desarrollo del juego ya no depende de una historia predeterm
 
 ## Caso 2: Guitar Hero
 
-Guitar Hero es un videojuego en el que el jugador debe seguir el ritmo de una canción mediante un "mando" en forma de guitarra. En la pantalla aparecen los botones necesarios para llegar a tocar la canción elegida. A diferencia de otros juegos musicales tradicionales, no se limita a reproducir canciones, sino que convierte la experiencia musical en una interacción directa y constante entre el usuario y el sistema.
+Guitar Hero es un videojuego para amantes de la música con cierta destreza manual. El jugador debe seguir el ritmo de una canción mediante un mando con forma de guitarra. En la pantalla aparecen los botones necesarios para llegar a tocar la canción elegida. A diferencia de otros juegos musicales tradicionales, no se limita a reproducir canciones, sino que convierte la experiencia musical en una interacción directa y constante entre el usuario y el sistema.
+
+Desde la perspectiva de la hibridación propuesta por Lev Manovich, Guitar Hero representa una combinación entre música, videojuego e interfaz física. Un tipo de hibridación en auge a inicios y mediados de los años 2000. El software se encarga de transformar una actividad artística y expresiva en una secuencia de datos digitales interpretables por el sistema. La música no es únicamente sonido sinó que se convierte también en información visual, tiempos de reacción y mecánicas de juego.
+
+El punto fuerte de esta hibridación aparecen especialmente en la forma en que el software traduce la música a un lenguaje interactivo. Uno de los conceptos más visibles es la *transcodificación*, ya que se convierten las canciones en datos procesables por el sistema. Visualmente, las notas musicales se representan mediante colores y patrones que el jugador debe interpretar con su mando. Dicho de otra manera; el software convierte la experiencia musical en una secuencia de instrucciones jugables.
+
+Guitar Hero incorpora también el principio de *automatización*. Aunque el mando lo sugiere, el jugador no produce realmente música, sino que interactúa con un sistema programado que decide cuándo una acción es correcta y cuándo no. El software interpreta las pulsaciones del usuario y genera una respuesta audiovisual inmediata, creando la falsa sensación de estar tocando una guitarra auténtica. Esto provoca que la experiencia musical dependa de algoritmos y reglas digitales.
+
+Otro aspecto importante es la relación entre cuerpo e interfaz. A diferencia de otros videojuegos convencionales, Guitar Hero introduce un mando diseñado específicamente para imitar una guitarra eléctrica. Aunque se trata de una simulación, el jugador desarrolla una interacción física que acerca la experiencia digital a una puesta en escena donde el usuario adopta simbólicamente el rol de músico.
+
+
 
 ## Bibliografia y webgrafia
 El software toma el mando
+https://es.wikipedia.org/wiki/Guitar_Hero
