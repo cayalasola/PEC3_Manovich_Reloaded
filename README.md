@@ -25,11 +25,15 @@ Por un lado mantiene la estrategia clásica que tanto atrae a los amantes de jue
 flowchart TD
     A[Total Battle]
     A --> B[Economia digital]
-    A --> C[Estrategia]
+    A --> C[Estrategia militar]
     A --> D[Datos en tiempo real]
+    A--> F[Automatización de procesos]
+    A--> G[Interacción entre jugadores]
     B --> E{Hibridación}
     C --> E{Hibridación}
     D --> E{Hibridación}
+    F --> E{Hibridación}
+    G --> E{Hibridación}
 ```
 Desde la perspectiva de Lev Manovich, Total Battle permite identificar varios de los principios fundamentales de los nuevos medios. Destaca la **transcodificación** mediante la cual, el juego nos convierte una guerra en un sistema de porcentajes, tiempos y números. El software en si mismo opera con estos datos y revela el resultado de las batallas, por ejemplo.
 
@@ -53,17 +57,35 @@ Guitar Hero incorpora también el principio de **automatización**. Aunque el ma
 
 Otro aspecto importante y especial es la relación entre cuerpo e interfaz. A diferencia de otros videojuegos convencionales y como se ha mencionado anteriormente, Guitar Hero introduce un mando diseñado específicamente para imitar una guitarra eléctrica. Aunque se trata de una simulación, el jugador desarrolla una interacción física que acerca la experiencia digital a una puesta en escena donde el usuario adopta el rol de músico.
 
-En este caso, la hibridación surge de la integración entre música, videojuego, interfaz física y espectáculo performativo, transformando la práctica musical en una experiencia interactiva gobernada por software.
+En este caso, la hibridación surge de la integración entre música, videojuego e interfaz física, transformando la práctica musical en una experiencia interactiva gobernada por software.
+
+```mermaid
+flowchart TD
+    A[Guitar Hero]
+    A --> B[Espectáculo musical]
+    A --> C[Interacción]
+    A --> D[Simulación con interfaz]
+    A --> F[Sistema de puntos]
+    B --> E{Hibridación}
+    C --> E{Hibridación}
+    D --> E{Hibridación}
+    F --> E{Hibridación}
+```
 
 Por otro lado, el videojuego también presenta **variabilidad**, ya que la posibilidad de desbloquear canciones, aumentar niveles de dificultad o competir por puntuaciones convierte la experiencia musical en un proceso único, dinámico y personalizado. Además, cada canción modifica la experiencia del usuario dado que el ritmo, la velocidad y la dificultad cambian en cada una de ellas.
 
-Desde una perspectiva sociológica, Guitar Hero simplifica la complejidad de aprender un instrumento musical y la convierte en un sistema basado en recompensas, reflejos y puntuaciones. En la época de la inmediatez este punto es fundamental; el usuario ya no necesita años de formación musical para sentirse capaz de reproducir canciones de alta complejidad. El software se encarga de traducir esa complejidad a mecánicas intuitivas. 
-
-Guitar Hero refleja también una característica propia de la sociedad digital: la necesidad de participación constante. Escuchar música deja de ser una actividad pasiva para convertirse en una experiencia interactiva.   O dicho de otra manera, el entretenimiento ya no se basa únicamente en consumir contenido, sino en participar activamente dentro del sistema.
+Desde una perspectiva sociológica, Guitar Hero simplifica la complejidad de aprender un instrumento musical para convertirla en un sistema basado en recompensas, reflejos y puntuaciones. En la época de la inmediatez este punto es fundamental; el usuario ya no necesita años de formación musical para sentirse capaz de reproducir canciones de alta complejidad. El software se encarga de traducir esa complejidad a mecánicas intuitivas. 
 
 ## Conclusiones
+Los dos casos analizados ejemplifican cómo el software contemporáneo ya no actúa únicamente como una herramienta, sino como un medio que a través de la mezcla de diversos elementos es capaz de transmitir al usuario una experiencia nueva y cada vez más sensorial, participativa, cambiante y compleja. Tanto Total Battle como Guitar Hero transforman actividades originalmente vinculadas al mundo físico —la estrategia militar y la interpretación musical— en sistemas interactivos basados en datos, interfaces y algoritmos que se alejan de la remediación dado que ofrecen al consumidor algo distinto a lo conocido.
+
+Siguiendo la visión de Lev Manovich, observamos cómo conceptos como transcodificación, automatización, modularidad y variabilidad aparecen integrados de forma natural en ambos ejemplos. El software convierte acciones humanas en información procesable y redefine la relación entre usuario y experiencia cultural.
+
+En el ámbito más sociológico, la hibridación descrita por Lev Manovich está a la orden del día desde inicios de los 2000 y en auge a día de hoy. Los dos casos expuestos reflejan una característica propia de la sociedad digital: la necesidad de participación constante. Escuchar música o "jugar a la guerra" deja de ser una actividad pasiva para convertirse en una experiencia interactiva. O dicho de otra manera, el entretenimiento ya no se basa únicamente en consumir contenido, sino en participar activamente dentro del sistema y parece ser que cada vez hay menos límites. 
 
 ## Bibliografia y webgrafia
-El software toma el mando
+Manovich, L. (2013). El software toma el mando. Editorial UOC.
+
 https://es.wikipedia.org/wiki/Guitar_Hero
+
 https://niveloculto.com/brevisima-historia-de-los-juegos-musicales/
