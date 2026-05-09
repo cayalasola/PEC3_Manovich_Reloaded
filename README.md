@@ -19,7 +19,7 @@ En este punto, a mi entender surge una pregunta clave: ¿hasta dónde podemos ll
 
 En el ámbito más técnico de la hibridación, podemos confirmar que Total Battle es una evolución significativa de los juegos de estrategia clásicos como *Age of Empires* o *Caesar III*. Sin embargo, en este tercer nivel descrito por Lev Manovich, la diferencia no radica únicamente en las complejidades añadidas o en la participación en tiempo real sino que es una **hibridación que incluye estrategia, economía digital y sistemas de datos en tiempo real**.
 
-Por un lado mantiene la estrategia clásica que tanto atrae a los amantes de juegos bélicos como la gestión territorial, la propia táctica para conseguir recursos, obtener mejores resultados y buenas alianzas. Por otro lado, incorpora economía digital que se ve traducida en recursos obtenidos a lo largo del juego que sirven para poder comprar bienes y progresar. Cuantas más tropas y más actualizados se tengan los edificios más se progresa. La economía digital es visible también en las microtransacciones que permite el juego para poder evolucionar más rapidamente. Finalmente, el sistema de datos en tiempo real se transmite podiendo interactuar a todas horas con otros jugadores y en los eventos mundiales determinados a horas concretas del día.
+Por un lado mantiene la estrategia clásica que tanto atrae a los amantes de juegos bélicos como la gestión territorial, la propia táctica para conseguir recursos, obtener mejores resultados y buenas alianzas. Por otro lado, incorpora economía digital que se ve traducida en recursos obtenidos a lo largo del juego que sirven para poder comprar bienes y progresar. Cuantas más tropas y más actualizados se tengan los edificios más se progresa. La economía digital es visible también en las microtransacciones que permite el juego para poder evolucionar más rápidamente. Finalmente, el sistema de datos en tiempo real se transmite podiendo interactuar a todas horas con otros jugadores y en los eventos mundiales determinados a horas concretas del día.
 
 ```mermaid
 flowchart TD
@@ -35,19 +35,17 @@ flowchart TD
     F --> E{Hibridación}
     G --> E{Hibridación}
 ```
-Desde la perspectiva de Lev Manovich, Total Battle permite identificar varios de los principios fundamentales de los nuevos medios. Destaca la **transcodificación** mediante la cual, el juego nos convierte una guerra en un sistema de porcentajes, tiempos y números. El software en si mismo opera con estos datos y revela el resultado de las batallas, por ejemplo.
+Desde la perspectiva de Lev Manovich, Total Battle permite identificar varios de los principios fundamentales de los nuevos medios. Destaca la **transcodificación** mediante la cual, el juego nos convierte una guerra en un sistema de porcentajes, tiempos y números. El software en sí mismo opera con estos datos y revela el resultado de las batallas, por ejemplo.
 
 Asimismo, el juego presenta una gran **variabilidad**, ya que la experiencia se modifica a través de eventos y de la interacción con otros jugadores, generando constantemente múltiples desenlaces posibles. Esta condición convierte al juego en un sistema dinámico en lugar de una experiencia lineal y predeterminada.
 
 Otro de los principios que se pueden apreciar es la **automatización** del software. El jugador dirige pero no ejecuta directamente la mayoría de las acciones. Dicho de otra manera; programa procesos —como la construcción de edificios o el entrenamiento de tropas— que el sistema lleva a cabo de manera autónoma. Aunque en este caso, también encontramos esta situación en los juegos clásicos mencionados. 
 
-Desde una perspectiva más sociológica, la hibridación en Total Battle no solo mezcla medios, sino que transforma una experiencia compleja como la guerra en un sistema basado en datos accesible para el usuario. Lo que en los inicios de los videojuegos se representaba como un conflicto visual y narrativo relativamente lineal, se convierte aquí en gestión, cálculo y toma de decisiones. Esta transformación modifica profundamente la relación del usuario con la experiencia: el jugador ya no observa la guerra ni se deja guiar solo por la narrativa, sino que ahora opera activamente dentro de un sistema bélico, lo que refuerza la idea de que el software no solo representa la realidad, sino que la reconfigura constántemente al uso de los jugadores.
-
-En mi opinión, en este caso la hibridación permite saciar uno de los deseos más oscuros del ser humano; el conflicto bélico, situando al jugador en una posición similar a la de un General estratega. 
+Desde una perspectiva más sociológica, la hibridación en Total Battle no solo mezcla medios, sino que transforma una experiencia compleja como la guerra en un sistema basado en datos accesible para el usuario. Lo que en los inicios de los videojuegos se representaba como un conflicto visual y narrativo relativamente lineal, se convierte aquí en gestión, cálculo y toma de decisiones. Esta transformación modifica profundamente la relación del usuario con la experiencia: el jugador ya no observa la guerra ni se deja guiar solo por la narrativa, sino que ahora opera activamente dentro de un sistema bélico, lo que refuerza la idea de que el software no solo representa la realidad, sino que la reconfigura constantemente al uso de los jugadores. 
 
 ## Caso 2: Guitar Hero
 
-Guitar Hero es un videojuego para amantes de la música con cierta destreza manual. El jugador debe seguir el ritmo de una canción mediante un mando con forma de guitarra. En la pantalla aparecen los botones necesarios para llegar a tocar la canción planteada. A diferencia de otros juegos musicales tradicionales como *Parapa the Rapper*, no se limita a reproducir canciones a las que el jugador tiene que imitar, sino que convierte la experiencia musical en una interacción directa y constante entre el usuario y el sistema.
+Guitar Hero es un videojuego, desarrollado por Harmonix, para amantes de la música con cierta destreza manual. En la pantalla aparecen las secuencias necesarias para llegar a tocar la canción planteada que el jugador debe seguir mediante los botones de un mando con forma de guitarra. A diferencia de otros juegos musicales tradicionales como *Parapa the Rapper*, no se limita a reproducir canciones a las que el jugador tiene que imitar, sino que convierte la experiencia musical en una interacción directa y constante entre el usuario y el sistema.
 
 Desde la perspectiva de la hibridación propuesta por Lev Manovich, Guitar Hero representa una combinación entre música, videojuego e interfaz física que se fusionan para formar una nueva forma de interpretar la música. Un tipo de hibridación en auge a inicios y mediados de los años 2000 en distintos tipos de videojuego. El software se encarga de transformar una actividad artística y expresiva viva en una secuencia de datos digitales interpretables por el sistema.
 
@@ -81,13 +79,23 @@ Los dos casos analizados ejemplifican cómo el software contemporáneo ya no act
 
 Siguiendo la visión de Lev Manovich, observamos cómo conceptos como transcodificación, automatización y variabilidad aparecen integrados de forma natural en ambos ejemplos. El software convierte acciones humanas en información procesable y redefine la relación entre usuario y experiencia cultural.
 
-En el ámbito más sociológico, la hibridación descrita por Lev Manovich se ha convertido en una característica central de la cultura digital contemporánea. Los dos casos analizados reflejan una rasgo propio de la sociedad digital: la necesidad de participación constante por parte de los usuarios. Jugar con música o guerrear dejan de ser actividades pasivas para convertirse en experiencias interactivas gobernadas por el software. O dicho de otra manera, el entretenimiento ya no se basa únicamente en consumir contenido, sino en participar y ser un eje más dentro de un sistema de datos, interfaces y algoritmos cambiantes. 
+En el ámbito más sociológico, la hibridación descrita por Lev Manovich se ha convertido en una característica central de la cultura digital contemporánea. Los dos casos analizados reflejan un rasgo propio de la sociedad digital: la necesidad de participación constante por parte de los usuarios. Jugar con música o guerrear dejan de ser actividades pasivas para convertirse en experiencias interactivas gobernadas por el software. O dicho de otra manera, el entretenimiento ya no se basa únicamente en consumir contenido, sino en participar y ser un eje más dentro de un sistema de datos, interfaces y algoritmos cambiantes. 
 
-En este sentido y retomando la pregunta inicial *"¿hasta dónde podemos llegar con la hibridación?"*, se puede llegar a la conclusión de que el software posee la capacidad de traducir prácticamente cualquier experiencia humana en una experiencia interactiva híbrida. Como siempre, hemos sido capaces de llevar la hibridación más allá de lo ético y lo moral ya que traspasa y acerca al usuario todo aquello que se desea. Su alcance es al menos tan amplio como el contraste que hay entre tocar la guitarra, una actividad en la que tanta gente disfruta, y controlar la guerra, una realidad en la que tanta gente padece. 
+En este sentido y retomando la pregunta inicial *"¿hasta dónde podemos llegar con la hibridación?"*, se puede llegar a la conclusión de que el software posee la capacidad de traducir prácticamente cualquier experiencia humana en una experiencia interactiva híbrida. Como siempre, el ser humano ha sido capaz de llevar la hibridación más allá de lo ético y lo moral ya que traspasa y acerca al usuario todo aquello que desea. Su alcance es al menos tan amplio como el contraste que hay entre la sensación de tocar la guitarra, una actividad en la que tanta gente disfruta, y la de controlar la guerra, una realidad en la que tanta gente padece. 
 
 ## Bibliografia y webgrafia
 Manovich, L. (2013). El software toma el mando. Editorial UOC.
 
-https://es.wikipedia.org/wiki/Guitar_Hero
+GitHub. https://github.com
 
+Nivel Oculto. “Brevisima historia de los juegos musicales”
 https://niveloculto.com/brevisima-historia-de-los-juegos-musicales/
+
+The Guardian. “Guitar Hero at 20”
+https://www.theguardian.com/games/2025/nov/08/guitar-hero-at-20-gap-between-rock-generations-harmonix-redoctane
+
+Total Battle
+https://totalbattle.com/es/
+
+Wikipedia. “Guitar Hero”
+https://es.wikipedia.org/wiki/Guitar_Hero
