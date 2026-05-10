@@ -49,6 +49,8 @@ Desde una perspectiva más sociológica, la hibridación en Total Battle no solo
 
 Guitar Hero es un videojuego, desarrollado por Harmonix, para amantes de la música con cierta destreza manual. En la pantalla aparecen las secuencias necesarias para llegar a tocar la canción planteada que el jugador debe seguir mediante los botones de un mando con forma de guitarra. A diferencia de otros juegos musicales tradicionales como *Parapa the Rapper*, no se limita a reproducir canciones a las que el jugador tiene que imitar, sino que convierte la experiencia musical en una interacción directa y constante entre el usuario y el sistema.
 
+![Imagen](./image/guitar_hero.png)
+
 Desde la perspectiva de la hibridación propuesta por Lev Manovich, Guitar Hero representa una combinación entre música, videojuego e interfaz física que se fusionan para formar una nueva forma de interpretar la música. Un tipo de hibridación en auge a inicios y mediados de los años 2000 en distintos tipos de videojuego. El software se encarga de transformar una actividad artística y expresiva viva en una secuencia de datos digitales interpretables por el sistema.
 
 Uno de los principios más visibles es la **transcodificación**, ya que se convierten las canciones en datos procesables por el sistema. Visualmente, las notas musicales se representan mediante colores y patrones que el jugador debe interpretar con su mando. 
