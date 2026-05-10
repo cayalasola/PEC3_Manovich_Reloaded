@@ -9,7 +9,7 @@
 
 ## Introducción: El software como nuevo lenguaje cultural  
   
-En esta nueva entrega, adoptamos la perspectiva de Lev Manovich en *El software toma el mando* (2013) para exponer y ejemplificar que el software ya no es únicamente una herramienta orientada a un fin, como en sus inicios. Tampoco se limita a reunir distintos medios en una sola interfaz como ocurre en el multimedia clásico ni es una mera evolución digital de un tiempo analógico pasado como sucede en la remediación. En la actualidad, el software también redefine, mezcla y genera nuevos medios culturales. Sí,  hablamos de **hibridación**. Manovich define esta evolución perfectamente en la página 179: *"Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos."*
+En esta nueva entrega, adoptamos la perspectiva de Lev Manovich en *El software toma el mando* (2013) para exponer y ejemplificar que el software ya no es únicamente una herramienta orientada a un fin, como en sus inicios. Tampoco se limita a reunir distintos medios en una sola interfaz como ocurre en el multimedia clásico ni es una mera evolución digital de un tiempo analógico pasado como sucede en la remediación. En la actualidad, el software también redefine, mezcla y genera nuevos medios culturales. Sí,  hablamos de **hibridación**. Manovich define esta evolución perfectamente: *"Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos."* (El software toma el mando, 2013, pg.179)
   
 En este punto, a mi entender surge una pregunta clave: ¿hasta dónde podemos llegar con la hibridación? Más allá de los usos prácticos del software -programas productivos, divulgatorios y educativos que usamos en nuestro día a día- la parte lúdica que atrae al ser humano aflora y toma su sitio en la cultura digital contemporánea. Es por eso que en este ensayo analizamos dos formas en que el software traduce experiencias humanas a sistemas interactivos lúdicos: el juego de estrategia *Total Battle* y el juego musical *Guitar Hero*. Ambos ejemplos permiten analizar cómo el software reconfigura experiencias opuestas —la guerra y la música— en sistemas interactivos basados en datos, interfaces y algoritmos.
 
@@ -19,9 +19,9 @@ En este punto, a mi entender surge una pregunta clave: ¿hasta dónde podemos ll
 
 ![Imagen](./image/total_battle.png)
 
-En el ámbito más técnico de la hibridación, podemos confirmar que Total Battle es una evolución significativa de los juegos de estrategia clásicos como *Age of Empires* o *Caesar III*. Sin embargo, en este tercer nivel descrito por Lev Manovich, la diferencia no radica únicamente en las complejidades añadidas o en la participación en tiempo real sino que es una **hibridación que incluye estrategia, economía digital y sistemas de datos en tiempo real**.
+En el ámbito más técnico de la hibridación, podemos confirmar que Total Battle es una evolución significativa de los juegos de estrategia clásicos como los conocidos *Age of Empires* o *Caesar III*. Sin embargo, en este tercer nivel descrito por Lev Manovich, la diferencia no radica únicamente en una remediación con complejidades añadidas o en la participación en tiempo real sino que es una **hibridación que incluye estrategia, economía digital y sistemas de datos en tiempo real**.
 
-Por un lado mantiene la estrategia clásica que tanto atrae a los amantes de juegos bélicos como la gestión territorial, la propia táctica para conseguir recursos, obtener mejores resultados y buenas alianzas. Por otro lado, incorpora economía digital que se ve traducida en recursos obtenidos a lo largo del juego que sirven para poder comprar bienes y progresar. Cuantas más tropas y más actualizados se tengan los edificios más se progresa. La economía digital es visible también en las microtransacciones que permite el juego para poder evolucionar más rápidamente. Finalmente, el sistema de datos en tiempo real se transmite podiendo interactuar a todas horas con otros jugadores y en los eventos mundiales determinados a horas concretas del día.
+Por un lado mantiene la estrategia clásica que tanto atrae a los amantes de juegos bélicos como la gestión territorial, la propia táctica para conseguir recursos, obtener mejores resultados y buenas alianzas. Por otro lado, incorpora economía digital que se ve traducida en recursos obtenidos a lo largo del juego. La economía digital es visible también en las microtransacciones que permite el juego para poder evolucionar más rápidamente. Finalmente, el sistema de datos en tiempo real se transmite podiendo interactuar a todas horas con otros jugadores y en los eventos mundiales determinados a horas concretas del día.
 
 ```mermaid
 flowchart TD
@@ -41,9 +41,9 @@ Desde la perspectiva de Lev Manovich, Total Battle permite identificar varios de
 
 Asimismo, el juego presenta una gran **variabilidad**, ya que la experiencia se modifica a través de eventos y de la interacción con otros jugadores, generando constantemente múltiples desenlaces posibles. Esta condición convierte al juego en un sistema dinámico en lugar de una experiencia lineal y predeterminada.
 
-Otro de los principios que se pueden apreciar es la **automatización** del software. El jugador dirige pero no ejecuta directamente la mayoría de las acciones. Dicho de otra manera; programa procesos —como la construcción de edificios o el entrenamiento de tropas— que el sistema lleva a cabo de manera autónoma. Aunque en este caso, también encontramos esta situación en los juegos clásicos mencionados. 
+Otro de los principios que se pueden apreciar es la **automatización** del software. El jugador  programa procesos —como la construcción de edificios o el entrenamiento de tropas— que el sistema lleva a cabo de manera autónoma. Aunque en este caso, también encontramos esta situación en los juegos clásicos mencionados. 
 
-Desde una perspectiva más sociológica, la hibridación en Total Battle no solo mezcla medios, sino que transforma una experiencia compleja como la guerra en un sistema basado en datos accesible para el usuario. Lo que en los inicios de los videojuegos se representaba como un conflicto visual y narrativo relativamente lineal, se convierte aquí en gestión, cálculo y toma de decisiones. Esta transformación modifica profundamente la relación del usuario con la experiencia: el jugador ya no observa la guerra ni se deja guiar solo por la narrativa, sino que ahora opera activamente dentro de un sistema bélico, lo que refuerza la idea de que el software no solo representa la realidad, sino que la reconfigura constantemente al uso de los jugadores. 
+Desde una perspectiva más sociológica, la hibridación en Total Battle no solo mezcla medios, sino que transforma una experiencia compleja como la guerra en un sistema basado en datos accesible para el usuario. Lo que en los inicios de los videojuegos se representaba como un conflicto visual y narrativo relativamente lineal, se convierte aquí en gestión, cálculo y toma de decisiones. Esta transformación modifica profundamente la relación del usuario con la experiencia: el jugador ya no observa la guerra ni se deja guiar solo por la narrativa, sino que ahora opera activamente dentro de un sistema bélico, lo que refuerza la idea de que el software no solo representa la realidad, sino que la reconfigura constantemente según el uso y las decisiones de los jugadores. 
 
 ## Caso 2: Guitar Hero
 
@@ -83,21 +83,21 @@ Los dos casos analizados ejemplifican cómo el software contemporáneo ya no act
 
 Siguiendo la visión de Lev Manovich, observamos cómo conceptos como transcodificación, automatización y variabilidad aparecen integrados de forma natural en ambos ejemplos. El software convierte acciones humanas en información procesable y redefine la relación entre usuario y experiencia cultural.
 
-En el ámbito más sociológico, la hibridación descrita por Lev Manovich se ha convertido en una característica central de la cultura digital contemporánea. Los dos casos analizados reflejan un rasgo propio de la sociedad digital: la necesidad de participación constante por parte de los usuarios. Jugar con música o guerrear dejan de ser actividades pasivas para convertirse en experiencias interactivas gobernadas por el software. O dicho de otra manera, el entretenimiento ya no se basa únicamente en consumir contenido, sino en participar y ser un eje más dentro de un sistema de datos, interfaces y algoritmos cambiantes. 
+En el ámbito más sociológico, la hibridación descrita por Lev Manovich se ha convertido en una característica central de la cultura digital contemporánea. Los dos casos analizados reflejan un rasgo propio de la sociedad digital: la necesidad de participación constante por parte de los usuarios. El entretenimiento ya no se basa únicamente en consumir contenido, sino en participar y convertirse en un elemento más dentro de un sistema de datos, interfaces y algoritmos cambiantes. 
 
-En este sentido y retomando la pregunta inicial *"¿hasta dónde podemos llegar con la hibridación?"*, se puede llegar a la conclusión de que el software posee la capacidad de traducir prácticamente cualquier experiencia humana en una experiencia interactiva híbrida. Como era de esperar, el ser humano ha sido capaz de llevar la hibridación más allá de lo ético y lo moral ya que traspasa y acerca al usuario todo aquello que desea. Su alcance es al menos tan amplio como el contraste que hay entre la sensación de tocar la guitarra, una actividad en la que tanta gente disfruta, y la de controlar la guerra, una realidad en la que tanta gente padece. 
+En este sentido y retomando la pregunta inicial *"¿hasta dónde podemos llegar con la hibridación?"*, puede concluirse que el software posee la capacidad de traducir prácticamente cualquier experiencia humana en una experiencia interactiva híbrida. A lo largo de la evolución tecnológica, el ser humano ha sido capaz de llevar la hibridación a todo tipo de ámbitos, incluso en aquellos que plantean dilemas éticos y morales, ya que traspasa y acerca al usuario todo aquello que desea experimentar en cada nivel. Su alcance es al menos tan amplio como el contraste que hay entre la sensación de tocar la guitarra, una actividad en la que tanta gente disfruta, y la de controlar la guerra, una realidad en la que tanta gente padece. 
 
-¿Hasta dónde llegará el software? y ¿cuál es el siguiente escalón que nos llevará a adelgazar aún más la línea entre realidad y ficción? son preguntas que, a mi parecer y vista la trayectoria que hemos seguido, nunca podremos responder con precisión.
+¿Hasta dónde llegará el software y cuál será el siguiente escalón que nos llevará a adelgazar aún más la línea entre realidad y ficción? Son preguntas que, vista la trayectoria vertiginosa de la cultura digital, nunca podremos responder con precisión, aunque todo apunta a que todavía queda mucho por descubrir.
 
 ## Bibliografia y webgrafia
 Manovich, L. (2013). El software toma el mando. Editorial UOC.
 
 GitHub. https://github.com
 
-Nivel Oculto. “Brevisima historia de los juegos musicales”
+Nivel Oculto. “Brevísima historia de los juegos musicales”
 https://niveloculto.com/brevisima-historia-de-los-juegos-musicales/
 
-The Guardian. “Guitar Hero at 20”
+The Guardian. Guitar Hero at 20 - how a plastic axe bridged the gap between rock generations
 https://www.theguardian.com/games/2025/nov/08/guitar-hero-at-20-gap-between-rock-generations-harmonix-redoctane
 
 Total Battle
@@ -106,9 +106,10 @@ https://totalbattle.com/es/
 Wikipedia. “Guitar Hero”
 https://es.wikipedia.org/wiki/Guitar_Hero
 
-ChatGPT. Se ha usado para corregir puntuaciones, concordancia de 
-tiempos verbales y creación de imágenes de apoyo visual.
-
+Markdown. 
 https://editormarkdown.com/
+
+Uso de la IA en ChatGPT: se ha usado para corregir puntuaciones, concordancia de 
+tiempos verbales y para crear las imágenes de apoyo visual.
 
 *Documento elaborado bajo licencia Creative Commons BY-SA 4.0.*
