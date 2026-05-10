@@ -85,7 +85,9 @@ Siguiendo la visión de Lev Manovich, observamos cómo conceptos como transcodif
 
 En el ámbito más sociológico, la hibridación descrita por Lev Manovich se ha convertido en una característica central de la cultura digital contemporánea. Los dos casos analizados reflejan un rasgo propio de la sociedad digital: la necesidad de participación constante por parte de los usuarios. Jugar con música o guerrear dejan de ser actividades pasivas para convertirse en experiencias interactivas gobernadas por el software. O dicho de otra manera, el entretenimiento ya no se basa únicamente en consumir contenido, sino en participar y ser un eje más dentro de un sistema de datos, interfaces y algoritmos cambiantes. 
 
-En este sentido y retomando la pregunta inicial *"¿hasta dónde podemos llegar con la hibridación?"*, se puede llegar a la conclusión de que el software posee la capacidad de traducir prácticamente cualquier experiencia humana en una experiencia interactiva híbrida. Como siempre, el ser humano ha sido capaz de llevar la hibridación más allá de lo ético y lo moral ya que traspasa y acerca al usuario todo aquello que desea. Su alcance es al menos tan amplio como el contraste que hay entre la sensación de tocar la guitarra, una actividad en la que tanta gente disfruta, y la de controlar la guerra, una realidad en la que tanta gente padece. 
+En este sentido y retomando la pregunta inicial *"¿hasta dónde podemos llegar con la hibridación?"*, se puede llegar a la conclusión de que el software posee la capacidad de traducir prácticamente cualquier experiencia humana en una experiencia interactiva híbrida. Como era de esperar, el ser humano ha sido capaz de llevar la hibridación más allá de lo ético y lo moral ya que traspasa y acerca al usuario todo aquello que desea. Su alcance es al menos tan amplio como el contraste que hay entre la sensación de tocar la guitarra, una actividad en la que tanta gente disfruta, y la de controlar la guerra, una realidad en la que tanta gente padece. 
+
+¿Hasta dónde llegará el software? y ¿cuál es el siguiente escalón que nos llevará a adelgazar aún más la línea entre realidad y ficción? son preguntas que, a mi parecer y vista la trayectoria que hemos seguido, nunca podremos responder con precisión.
 
 ## Bibliografia y webgrafia
 Manovich, L. (2013). El software toma el mando. Editorial UOC.
@@ -103,3 +105,10 @@ https://totalbattle.com/es/
 
 Wikipedia. “Guitar Hero”
 https://es.wikipedia.org/wiki/Guitar_Hero
+
+ChatGPT. Se ha usado para corregir puntuaciones, concordancia de 
+tiempos verbales y creación de imágenes de apoyo visual.
+
+https://editormarkdown.com/
+
+*Documento elaborado bajo licencia Creative Commons BY-SA 4.0.*
