@@ -17,6 +17,8 @@ En este punto, a mi entender surge una pregunta clave: ¿hasta dónde podemos ll
   
 *Total Battle* es un juego interactivo multijugador de estrategia para móviles donde los jugadores construyen imperios, gestionan recursos y dirigen ejércitos en un entorno competitivo. Para poder ofrecer esta experiencia, su desarrollador ScoreWarrior combina planificación urbanística individual con táctica de grupo para poder progresar a través de eventos y enfrentamientos bélicos. 
 
+![Imagen](./image/total_battle.png)
+
 En el ámbito más técnico de la hibridación, podemos confirmar que Total Battle es una evolución significativa de los juegos de estrategia clásicos como *Age of Empires* o *Caesar III*. Sin embargo, en este tercer nivel descrito por Lev Manovich, la diferencia no radica únicamente en las complejidades añadidas o en la participación en tiempo real sino que es una **hibridación que incluye estrategia, economía digital y sistemas de datos en tiempo real**.
 
 Por un lado mantiene la estrategia clásica que tanto atrae a los amantes de juegos bélicos como la gestión territorial, la propia táctica para conseguir recursos, obtener mejores resultados y buenas alianzas. Por otro lado, incorpora economía digital que se ve traducida en recursos obtenidos a lo largo del juego que sirven para poder comprar bienes y progresar. Cuantas más tropas y más actualizados se tengan los edificios más se progresa. La economía digital es visible también en las microtransacciones que permite el juego para poder evolucionar más rápidamente. Finalmente, el sistema de datos en tiempo real se transmite podiendo interactuar a todas horas con otros jugadores y en los eventos mundiales determinados a horas concretas del día.
