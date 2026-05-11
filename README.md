@@ -5,7 +5,7 @@
 
 **Asignatura:** Cultura Digital / Multimedia  
 
-**Fecha:** 03/05/2026. 
+**Fecha:** mayo 2026 
 
 ## Índice
 <a id="indice"></a>
